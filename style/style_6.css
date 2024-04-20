@@ -197,3 +197,33 @@ header{
     color: #FF4B32;
     font-size: 16px;
 }
+
+.footer-{
+    background: url(../images/cofeeee.png),
+    url(../images/Rectangle\ 56.png);
+}
+.footer- p, h3{
+    color: white;
+}
+footer{
+    padding-top: 50px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.phone{
+    display: flex;
+}
+.footers-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.footers-logo{
+    width: 150px;
+    height: 100px;
+}
+.footers-description{
+    max-width: 290px;
+    padding-bottom: 20px;
+}
